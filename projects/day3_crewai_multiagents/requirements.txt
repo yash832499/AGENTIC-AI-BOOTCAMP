@@ -1,0 +1,11 @@
+crewai
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+duckduckgo-search
+ddgs
+python-dotenv
+streamlit
+
+

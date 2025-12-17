@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "question": "What is a Multi-Agent System (MAS)?",
+    "options": [
+      "A system with multiple users.",
+      "A system where multiple specialized agents collaborate to solve a complex task.",
+      "A system that uses multiple API keys.",
+      "A single agent with multiple tools."
+    ],
+    "answer": "A system where multiple specialized agents collaborate to solve a complex task."
+  },
+  {
+    "id": 2,
+    "question": "In our CrewAI project, what was the role of the 'Researcher' agent?",
+    "options": [
+      "To write a poem.",
+      "To verify the facts.",
+      "To gather accurate information using search tools.",
+      "To manage the other agents."
+    ],
+    "answer": "To gather accurate information using search tools."
+  },
+  {
+    "id": 3,
+    "question": "What is a 'Task' in CrewAI?",
+    "options": [
+      "A specific assignment given to an agent with a description and expected output.",
+      "The name of the agent.",
+      "The API key.",
+      "The final result."
+    ],
+    "answer": "A specific assignment given to an agent with a description and expected output."
+  },
+  {
+    "id": 4,
+    "question": "Why is delegation useful in multi-agent systems?",
+    "options": [
+      "It allows agents to pass difficult sub-tasks to other agents who are experts.",
+      "It makes the system slower.",
+      "It saves API costs.",
+      "It isn't useful."
+    ],
+    "answer": "It allows agents to pass difficult sub-tasks to other agents who are experts."
+  },
+  {
+    "id": 5,
+    "question": "What framework did we use to build the multi-agent system?",
+    "options": [
+      "Flask",
+      "CrewAI",
+      "ReactJS",
+      "TensorFlow"
+    ],
+    "answer": "CrewAI"
+  }
+]

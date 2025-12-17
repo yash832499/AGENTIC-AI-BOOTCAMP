@@ -6,4 +6,4 @@ chromadb
 streamlit
 python-dotenv
 requests
-
+ddgs
